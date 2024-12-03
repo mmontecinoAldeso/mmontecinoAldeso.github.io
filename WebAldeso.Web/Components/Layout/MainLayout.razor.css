@@ -1,0 +1,258 @@
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 1300px;
+    padding-top: 107px;
+}
+
+main {
+    flex: 1;
+}
+
+.sidebar {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+/*NAV BAR IN*/
+/*nav {
+    height: 107px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative; 
+}*/
+nav {
+    height: 107px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed; /* Cambia position a fixed */
+    top: 0; /* Fija la posición en la parte superior */
+   /* left: 0;*/
+    width: 1300px; /* Asegúrate de que ocupe todo el ancho */
+    z-index: 1000; /* Asegura que esté sobre otros elementos */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Opcional: Añadir sombra para mejor visibilidad */
+}
+.blueNav {
+    background-color: #303f9f !important;
+    height: 30px;
+    width: 1300px;
+    position: fixed; /* Fijar en la parte superior */
+    top: 0;
+    z-index: 1001; /* Más alto que otros elementos del nav */
+}
+
+.whiteNav {
+    background-color: white;
+    position: fixed; /* Fijar justo debajo de la barra azul */
+    top: 30px;
+    height: 77px;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Debajo de la barra azul pero encima del contenido */
+}
+/*.blueNav {
+    background-color: #303f9f !important;
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.whiteNav {
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    height: 77px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;*/ /* Cambiado align-content a align-items para centrar los elementos */
+/*}*/
+
+.navContent {
+    display: flex;
+    justify-content: space-between; /* Cambiado a space-between para distribuir el espacio entre los elementos */
+    align-items: center;
+    /* width: 100%; */
+    width: 1166px;
+  /*  padding: 20px 0;*/
+}
+
+.navbar-nav {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navContact{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-nav filter{
+
+}
+.nav-item{
+    min-width:fit-content;
+}
+.nav-link.active {
+    color: #303f9f;
+}
+
+.nav-item:has(:hover) {
+    color: #303f9f;
+}
+
+
+/* MENÚ DESPLEGABLE PERSONALIZADO */
+
+/* Ocultar el menú desplegable por defecto */
+.nav-item-custom .dropdown-menu-custom {
+   /* margin-top:0.5rem;*/
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    min-width:150px;
+    padding: 0;
+    z-index: 1000; /* Asegura que el menú esté por encima de otros elementos */
+    list-style-type: none; /* Elimina los puntos de la lista */
+}
+
+/* Mostrar el menú desplegable al pasar el mouse */
+.nav-item-custom:hover .dropdown-menu-custom {
+    display: block;
+}
+
+/* Estilo para los items del dropdown */
+.dropdown-item-custom {
+    padding: 12px 20px;
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    display: block; /* Asegura que los items ocupen todo el ancho del contenedor */
+}
+
+    /* Cambio de color al pasar el mouse en los items */
+    .dropdown-item-custom:hover {
+        background-color: #ebf0f5; /* Fondo transparente con un toque de azul */
+        color: #494949;
+       /* border-radius: 5px;*/
+    }
+
+    /* Estilo adicional para el primer item */
+    /*.dropdown-item-custom:first-child {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }*/
+
+    /* Estilo adicional para el último item */
+    /*.dropdown-item-custom:last-child {
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }*/
+
+/* Estilo de flecha para el menú */
+.nav-link.dropdown-toggle img {
+    width: 12px;
+    margin-left: 5px;
+    transition: transform 0.2s ease;
+}
+
+/* Rotación de la flecha cuando el dropdown está abierto */
+.nav-item-custom:hover .nav-link.dropdown-toggle img {
+    transform: rotate(180deg);
+}
+
+
+/*NAV BAR OUT*/
+.top-row {
+    background-color: #f7f7f7;
+
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row ::deep a, .top-row ::deep .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row ::deep a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row {
+        justify-content: space-between;
+    }
+
+    .top-row ::deep a, .top-row ::deep .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page {
+        flex-direction: row;
+    }
+
+    .sidebar {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth ::deep a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row, article {
+       /* padding-left: 2rem !important;
+        padding-right: 1.5rem !important;*/
+    }
+}
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }

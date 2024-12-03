@@ -1,0 +1,21 @@
+﻿
+
+/*ESTILOS GENERALES PERSONALIZADOS IN*/
+.btnBlue {
+    text-decoration: none;
+    font-size: 16px;
+    background: #303f9f;
+    border-radius: 0.5rem;
+    border: none;
+    color: white;
+    box-shadow: 0 6px 0 #eeab42;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    height: 2.5rem;
+    padding: 0.5rem;
+}
+
+    .btnBlue:hover {
+        background-color: #3789b3;
+    }
+/*ESTILOS GENERALES PERSONALIZADOS IN*/

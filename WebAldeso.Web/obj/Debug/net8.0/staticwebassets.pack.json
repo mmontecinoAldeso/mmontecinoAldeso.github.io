@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebAldeso.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAldeso.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAALDESO TEXTO WEB.docx",
+      "PackagePath": "staticwebassets\\Images\\AAALDESO TEXTO WEB.docx"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAApaginas internas ALDESO.pdf",
+      "PackagePath": "staticwebassets\\Images\\AAApaginas internas ALDESO.pdf"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AACORTE-sectores.jpg",
+      "PackagePath": "staticwebassets\\Images\\AACORTE-sectores.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAHOME-ALDESO.jpg",
+      "PackagePath": "staticwebassets\\Images\\AAHOME-ALDESO.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAcorte-ADVISOR.jpg",
+      "PackagePath": "staticwebassets\\Images\\AAcorte-ADVISOR.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAcorte-solucionweb.jpg",
+      "PackagePath": "staticwebassets\\Images\\AAcorte-solucionweb.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\AAcortechemical.jpg",
+      "PackagePath": "staticwebassets\\Images\\AAcortechemical.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\Aboceto-corte.jpg",
+      "PackagePath": "staticwebassets\\Images\\Aboceto-corte.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\HOME TEXTO.docx",
+      "PackagePath": "staticwebassets\\Images\\HOME TEXTO.docx"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\PAG-SOLUCI-CHEMICAL.jpg",
+      "PackagePath": "staticwebassets\\Images\\PAG-SOLUCI-CHEMICAL.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\SECTOREES.rar",
+      "PackagePath": "staticwebassets\\Images\\SECTOREES.rar"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\SECTORES.xlsx",
+      "PackagePath": "staticwebassets\\Images\\SECTORES.xlsx"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aa.zip",
+      "PackagePath": "staticwebassets\\Images\\aa.zip"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\acomp.png",
+      "PackagePath": "staticwebassets\\Images\\acomp.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aconfi.png",
+      "PackagePath": "staticwebassets\\Images\\aconfi.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\adapt.png",
+      "PackagePath": "staticwebassets\\Images\\adapt.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aefici.png",
+      "PackagePath": "staticwebassets\\Images\\aefici.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aerpimag.jpg",
+      "PackagePath": "staticwebassets\\Images\\aerpimag.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aintegra.png",
+      "PackagePath": "staticwebassets\\Images\\aintegra.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\aldeso.jpg",
+      "PackagePath": "staticwebassets\\Images\\aldeso.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\animag.jpg",
+      "PackagePath": "staticwebassets\\Images\\animag.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\areduc.png",
+      "PackagePath": "staticwebassets\\Images\\areduc.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\atiemp.png",
+      "PackagePath": "staticwebassets\\Images\\atiemp.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\audit.png",
+      "PackagePath": "staticwebassets\\Images\\audit.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\check.png",
+      "PackagePath": "staticwebassets\\Images\\check.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\Images\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\contac.jpg",
+      "PackagePath": "staticwebassets\\Images\\contac.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\contactanos.jpg",
+      "PackagePath": "staticwebassets\\Images\\contactanos.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\flecha-off.jpg",
+      "PackagePath": "staticwebassets\\Images\\flecha-off.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\flecha-on.jpg",
+      "PackagePath": "staticwebassets\\Images\\flecha-on.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\fondo-web.jpg",
+      "PackagePath": "staticwebassets\\Images\\fondo-web.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hchem.png",
+      "PackagePath": "staticwebassets\\Images\\hchem.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hcorreo.png",
+      "PackagePath": "staticwebassets\\Images\\hcorreo.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\helec.png",
+      "PackagePath": "staticwebassets\\Images\\helec.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hflesolu.png",
+      "PackagePath": "staticwebassets\\Images\\hflesolu.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hifle-off.png",
+      "PackagePath": "staticwebassets\\Images\\hifle-off.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hifle-on.png",
+      "PackagePath": "staticwebassets\\Images\\hifle-on.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hindu.png",
+      "PackagePath": "staticwebassets\\Images\\hindu.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hlogis.png",
+      "PackagePath": "staticwebassets\\Images\\hlogis.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hmag1.jpg",
+      "PackagePath": "staticwebassets\\Images\\hmag1.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hmag1_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\hmag1_2.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hmag2.jpg",
+      "PackagePath": "staticwebassets\\Images\\hmag2.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hmag3.jpg",
+      "PackagePath": "staticwebassets\\Images\\hmag3.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hport.png",
+      "PackagePath": "staticwebassets\\Images\\hport.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hprom.png",
+      "PackagePath": "staticwebassets\\Images\\hprom.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hsector.jpg",
+      "PackagePath": "staticwebassets\\Images\\hsector.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hsolche.png",
+      "PackagePath": "staticwebassets\\Images\\hsolche.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hubic.png",
+      "PackagePath": "staticwebassets\\Images\\hubic.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hweb.jpg",
+      "PackagePath": "staticwebassets\\Images\\hweb.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hweb.png",
+      "PackagePath": "staticwebassets\\Images\\hweb.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\hweb1.jpg",
+      "PackagePath": "staticwebassets\\Images\\hweb1.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\icontac.png",
+      "PackagePath": "staticwebassets\\Images\\icontac.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\ipreguntas.png",
+      "PackagePath": "staticwebassets\\Images\\ipreguntas.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\isector.png",
+      "PackagePath": "staticwebassets\\Images\\isector.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\isoluweb.png",
+      "PackagePath": "staticwebassets\\Images\\isoluweb.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\isoporte.png",
+      "PackagePath": "staticwebassets\\Images\\isoporte.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\itestimo.png",
+      "PackagePath": "staticwebassets\\Images\\itestimo.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\pixfon.jpg",
+      "PackagePath": "staticwebassets\\Images\\pixfon.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\preg.jpg",
+      "PackagePath": "staticwebassets\\Images\\preg.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\preguntas.jpg",
+      "PackagePath": "staticwebassets\\Images\\preguntas.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scchem.jpg",
+      "PackagePath": "staticwebassets\\Images\\scchem.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scchemsd.jpg",
+      "PackagePath": "staticwebassets\\Images\\scchemsd.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scelectri.jpg",
+      "PackagePath": "staticwebassets\\Images\\scelectri.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\schem.png",
+      "PackagePath": "staticwebassets\\Images\\schem.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scindis.jpg",
+      "PackagePath": "staticwebassets\\Images\\scindis.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\sclogist.jpg",
+      "PackagePath": "staticwebassets\\Images\\sclogist.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scport.jpg",
+      "PackagePath": "staticwebassets\\Images\\scport.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\scprome.jpg",
+      "PackagePath": "staticwebassets\\Images\\scprome.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se01.png",
+      "PackagePath": "staticwebassets\\Images\\se01.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se02.png",
+      "PackagePath": "staticwebassets\\Images\\se02.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se03.png",
+      "PackagePath": "staticwebassets\\Images\\se03.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se04.png",
+      "PackagePath": "staticwebassets\\Images\\se04.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se05.png",
+      "PackagePath": "staticwebassets\\Images\\se05.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\se06.png",
+      "PackagePath": "staticwebassets\\Images\\se06.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\sectores.jpg",
+      "PackagePath": "staticwebassets\\Images\\sectores.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\selec.png",
+      "PackagePath": "staticwebassets\\Images\\selec.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\sindu.png",
+      "PackagePath": "staticwebassets\\Images\\sindu.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\slogis.png",
+      "PackagePath": "staticwebassets\\Images\\slogis.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\soluweb.jpg",
+      "PackagePath": "staticwebassets\\Images\\soluweb.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\soporte.jpg",
+      "PackagePath": "staticwebassets\\Images\\soporte.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\sport.png",
+      "PackagePath": "staticwebassets\\Images\\sport.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\sprom.png",
+      "PackagePath": "staticwebassets\\Images\\sprom.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\ssolche.png",
+      "PackagePath": "staticwebassets\\Images\\ssolche.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\swcatal.png",
+      "PackagePath": "staticwebassets\\Images\\swcatal.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\swcorpo.png",
+      "PackagePath": "staticwebassets\\Images\\swcorpo.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\swland.png",
+      "PackagePath": "staticwebassets\\Images\\swland.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\swmante.png",
+      "PackagePath": "staticwebassets\\Images\\swmante.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\swtienda.png",
+      "PackagePath": "staticwebassets\\Images\\swtienda.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\Images\\testimonios.jpg",
+      "PackagePath": "staticwebassets\\Images\\testimonios.jpg"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Trabajo\\WebAldeso\\WebAldeso.Web\\wwwroot\\general.css",
+      "PackagePath": "staticwebassets\\general.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAldeso.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAldeso.Web.props",
+      "PackagePath": "build\\WebAldeso.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAldeso.Web.props",
+      "PackagePath": "buildMultiTargeting\\WebAldeso.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAldeso.Web.props",
+      "PackagePath": "buildTransitive\\WebAldeso.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

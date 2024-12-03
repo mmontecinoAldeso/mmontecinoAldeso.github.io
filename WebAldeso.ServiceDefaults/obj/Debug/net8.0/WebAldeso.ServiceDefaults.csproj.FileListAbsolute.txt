@@ -1,0 +1,12 @@
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\bin\Debug\net8.0\WebAldeso.ServiceDefaults.deps.json
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\bin\Debug\net8.0\WebAldeso.ServiceDefaults.dll
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\bin\Debug\net8.0\WebAldeso.ServiceDefaults.pdb
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.AssemblyInfo.cs
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.dll
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\refint\WebAldeso.ServiceDefaults.dll
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\WebAldeso.ServiceDefaults.pdb
+C:\Trabajo\WebAldeso\WebAldeso.ServiceDefaults\obj\Debug\net8.0\ref\WebAldeso.ServiceDefaults.dll

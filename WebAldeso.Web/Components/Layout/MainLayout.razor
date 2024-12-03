@@ -1,0 +1,117 @@
+﻿@inherits LayoutComponentBase
+
+
+<div class="page open-sans-custom" style="max-width: 1300px; min-height:100vh;display: flex;justify-content: center; align-content:center; background:#ffffff;">
+ 
+    <main style="width: 1300px;">
+      
+        <nav class="navbar navbar-expand-lg ">
+            <div class="blueNav"></div>
+            <div class="whiteNav" >
+              
+                <div class="collapse navbar-collapse" id="navbarNav" style="justify-content: center;">
+                    <div class="navContent">
+                        <a href="#">
+                            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                                <img src="/Images/aldeso.jpg" alt="Aldeso logo" style="width: 153px; height: 43px;" />
+                            </NavLink>
+                           
+                        </a>
+
+                        <ul class="navbar-nav" style="margin: 15px;">
+                            <li class="nav-item active">
+                                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                                   Inicio
+                                   <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                             
+                            </li>
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="advisor">
+                                    Advisor    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink> 
+                              
+                            </li>
+                            @* <li class="nav-item">
+                                <NavLink class="nav-link" href="Error">
+                                    Soluciones Advisor    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+
+                            </li> *@
+                            <li class="nav-item-custom">
+                                <NavLink class="nav-link dropdown-toggle" href="#" id="solucionesAdvisorMenu" role="button">
+                                    Soluciones Advisor <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                                <ul class="dropdown-menu-custom" aria-labelledby="solucionesAdvisorMenu">
+                                    <li><a class="dropdown-item-custom" href="/ERPchemical">ERP Chemical</a></li>
+                                    <li><a class="dropdown-item-custom" href="/ERPsga">ERP SGA Logística</a></li>
+                                    <li><a class="dropdown-item-custom" href="/ERPindustrial">ERP Industrial + Distribución</a></li>
+                                    <li><a class="dropdown-item-custom" href="/ERPelectrical">ERP Electrical</a></li>
+                                    <li><a class="dropdown-item-custom" href="/ChemSD">Solución ChemSD</a></li>
+                                    <li><a class="dropdown-item-custom" href="/Proyectos">Proyectos a Medida</a></li>
+                                    <li><a class="dropdown-item-custom" href="/Portales">Portales ADVISOR</a></li>
+                                </ul>
+                            </li>
+
+
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="sectores">
+                                    Sectores    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                               
+                            </li>
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="solucionesWeb">
+                                    Soluciones Web    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                             
+                            </li>
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="soporte">
+                                    Soporte    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                            </li>
+                            <li class="nav-item">
+                                <NavLink class="nav-link" href="contacto">
+                                    Contacto    <img src="/Images/chevron-down.svg" alt="" />
+                                </NavLink>
+                            </li>
+                  
+                        </ul>   
+                      
+                        <NavLink class="nav-link" href="preguntas">
+                             <img src="/Images/preg.jpg" alt="Preguntas frecuentes" style="margin-right: 1.5rem;" />
+                        </NavLink>
+                        <div class="navContact">
+                            <NavLink class="nav-link" href="contacto">
+                                <img src="/Images/contac.jpg" alt="Contacto" style="width:41px; height:35px; margin-right:0.5rem; object-fit:contain;" />
+                            </NavLink>
+                          
+                            <p style="color:#3789b3">934.156.944</p>
+                        </div>
+                       
+
+                      
+                        
+                    </div>
+                   
+                </div>
+              
+            </div>
+           
+        </nav>
+      
+
+        <article class="content" >
+            @Body
+        </article>
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>
+
+

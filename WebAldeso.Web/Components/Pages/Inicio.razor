@@ -1,0 +1,798 @@
+﻿@page "/"
+
+<PageTitle>Inicio</PageTitle>
+
+@* BANNERS PRINCIPALES *@
+<div style="height:fit-content;">
+    <div class="banner-carousel">
+        <div class="banner-track">
+            <div class="banner-content" id="banner1">
+                <div class="banner-text">
+                    <div style="width:25rem; text-align: left;">
+                        <h1>Soluciones ERP Advisor</h1>
+                        <h3>Mejora la eficiencia operativa de tu negocio.</h3>
+                        <a class="btnBlue espacio" href="/contacto">Solicita una Demo Personalizada</a>
+                       @*  <button ></button> *@
+                    </div>
+                </div>
+            </div>
+            <div class="banner-content" id="banner2">
+                <div class="banner-text">
+                    <div style="width:25rem; text-align: left;">
+                        <h1>Soluciones para Pymes</h1>
+                        <h3>Disponemos  una solución adecuada para tu negocio</h3>
+                        <a class="btnBlue espacio" href="/contacto">Solicita una Demo Personalizada</a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-content" id="banner3">
+                <div class="banner-text">
+                    <div style="width:25rem; text-align: left;">
+                        <h1>Te ayudamos a mejorar tus procesos</h1>
+                        <h3>Reduce costos, tiempo</h3>
+                        <a class="btnBlue espacio" href="/contacto">Solicita una Demo Personalizada</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+     
+    </div>
+    <div class="banner-scroll">
+        <div class="indicator" data-index="0"></div>
+        <div class="indicator" data-index="1"></div>
+        <div class="indicator" data-index="2"></div>
+    </div>
+</div>
+@* PORQUE ADVISOR *@
+<div class="banner-text" style="  margin: 0 auto; ">
+    <div class="row left" style="justify-content: center;display: flex;align-items: center;">
+
+        <div class="col-3">
+            <h2 style="font-size:36px; color:#494949">¿Por qué elegir <br/>  ERP ADVISOR?  </h2>
+        </div>
+        <div class="col-8">
+            <p style="font-size:16px; color:#494949">Las soluciones verticales del <strong>ERP-ADVISOR</strong> han sido desarrolladas por expertos en TIC conocedores <strong>de las características del negocio</strong>, unida con la experiencia obtenida en los múltiples proyectos realizados.</p>
+        </div>
+        <div class="col-1">
+            <a href="/advisor">  <img class="flecha-img" src="/Images/flecha-off.jpg" alt="" /></a>
+          
+        </div>
+
+
+    </div>
+</div>
+@* SOLUCIONES ADVISOR *@
+<div id="carruselSolutions">
+    <div class="carousel-arrow left-arrow">&#10094;</div>
+    <div class="banner-text" style="margin: 0 auto; margin-top:3rem;">
+        <h1 style="font-size:48px; color: #494949">Soluciones Advisor</h1>
+  
+        <div id="soluciones-carrusel">
+            <!-- CARDS -->
+            <a class="ERPcard" href="/ERPchemical">
+             <img src="/Images/hchem.png" alt="Símbolo ERP Chemical" style="height:98px; width:98px" />
+                    <h2 >ERP-Chemical</h2>
+                    <p >Diseñado para cubrir las necesidades específicas y reguladas de la industria QUIMICA. Ayuda a mejorar la eficiencia.</p>
+           </a>
+            @*  <div class="ERPcard" >
+               
+                    <img src="/Images/hchem.png" alt="Símbolo ERP Chemical" style="height:98px; width:98px" />
+                    <h2 >ERP-Chemical</h2>
+                    <p >Diseñado para cubrir las necesidades específicas y reguladas de la industria QUIMICA. Ayuda a mejorar la eficiencia.</p>
+            
+            </div> *@
+            <a class="ERPcard" href="/ERPsga">
+               
+                    <img src="/Images/hlogis.png" alt="Símbolo ERP SGA Logística" style="height:98px; width:98px" />
+                    <h2 >ERP- SGA Logística</h2>
+                    <p >Solución integral que optimiza y gestiona los procesos de almacén, distribución y cadena de suministro de la empresa.</p>
+             
+            </a>
+            <a class="ERPcard" href="/ERPindustrial">
+               
+                    <img src="/Images/hindu.png" alt="Símbolo ERP Industrial Distribución" style="height:98px; width:98px" />
+                    <h2 >ERP-Industrial Distribución</h2>
+                    <p >Optimiza y gestiona de manera eficaz todas las áreas de una empresa del sector manufacturero y de la distribución.</p>
+               
+            </a>
+            <a class="ERPcard" href="/ERPelectrical">
+              
+                    <img src="/Images/helec.png" alt="Símbolo ERP Electrical" style="height:98px; width:98px" />
+                    <h2 >ERP-Electrical</h2>
+                    <p>
+                        Creado para el sector eléctrico/electrotécnico, ayuda a gestionar todas sus operaciones y particularidades del negocio.
+                    </p>
+              
+            </a>
+            <a class="ERPcard" href="/ChemSD">
+               
+                    <img src="/Images/hsolche.png" alt="Símbolo Solución ChemSD" style="height:98px; width:98px" />
+                    <h2>Solución ChemSD</h2>
+                    <p>Facilita el cumplimiento de las normativas, regulaciones y legislaciones ambientales de seguridad nacional e internacional.</p>
+               
+            </a>
+            <a class="ERPcard" href="/Proyectos">
+               
+                    <img src="/Images/hprom.png" alt="Símbolo Proyectos a medida" style="height:98px; width:98px" />
+                    <h2 >Proyectos a medida</h2>
+                    <p >Soluciones “llaves en mano” para empresas que necesitan de procesos específicos propios.</p>
+              
+            </a>
+            <a class="ERPcard" href="/Portales">
+              
+                    <img src="/Images/hport.png" alt="Símbolo Portal" style="height:98px; width:98px" />
+                    <h2 >Portal</h2>
+                    <p >Plataforma de servicios de contenido, adaptables a diferentes necesidades y nicho de mercado.</p>
+              
+            </a>
+            <!-- CARDS -->
+        </div>
+
+    </div>
+    <div class="carousel-arrow right-arrow" >&#10095;</div>
+</div>
+@* SOLUCIONES PARA DIVERSOS *@
+<div class="banner-text" style="  margin: 0 auto; margin-top:3rem;">
+    <div class="row left" style="justify-content: center;display: flex;align-items: center;">
+
+        <div class="col-7" style="width:62% !important;">
+            <img src="/Images/hsector.jpg" style="height:292px; width:715px;" alt="Soluciones para diversos sectores" />
+        </div>
+        <div class="col-5" style="width:38% !important;">
+            <h2 style="font-size:36px; color:#494949">Soluciones para diversos sectores</h2>
+            <p style="font-size:16px; color:#494949; text-align:justify;">Con la plataforma <strong>ADVISOR</strong>, se han desarrollado unas <strong>soluciones  de ERP’S  verticales</strong>, para cubrir las <strong>especificaciones y particularidades</strong> de <strong>diversos sectores</strong> de la actividad empresarial.</p>
+            <div style="display:flex; justify-content:center;align-items:center;margin-top:2rem;">   
+                <a class="btnBlue" href="/contacto">Solicita una Demo Personalizada</a>
+            @*     <button ></button> *@
+            </div>
+       
+        </div>
+
+    </div>
+    <div class="linea">
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Chemical</p>
+        </div>
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Electrical</p>
+        </div>
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Logística</p>
+        </div>
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Distribución</p>
+        </div>
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Alimentación y Bebídas</p>
+        </div>
+        <div id="solution-item">
+            <img src="/Images/check.png" style="height:27px; width:27px;" alt="icono check" />
+            <p>Retail</p>
+        </div>
+    </div>
+</div>
+@* SOLUCIONES WEB *@
+<div id="solucionesWeb" style="background-image: url('/Images/fondo-web.jpg');color:#ffffff !important; height:693px; width:auto; ">
+    <div class="banner-text" style="margin: 0 auto; margin-top:3rem; padding-top:2rem;text-align:center;">
+        <h1 style="font-size:48px; color:#ffffff; margin-top:3rem;">Soluciones Web</h1>
+        <h2 style="font-size:18px; padding: 0 1.75rem; color:#ffffff;">Transforma tu negocio con soluciones web enfocadas en resultados: cada página optimizada para atraer, convertir y fidelizar a tus clientes. ¡Lleva tu marca al siguiente nivel!</h2>
+        <div id="solutionCards">
+            <a id="webItem" href="/solucionesWeb">
+                <h3>Web Corporativa</h3>
+                <p>Impacta desde el primer clic, convirtiendo tu presencia digital en oportunidades.</p>
+            </a>
+            <a id="webItem" href="/solucionesWeb">
+                <h3>Tienda online y catálogo de productos online</h3>
+                <p style="font-size:17px !important;">Lleva tu negocio al siguiente nivel y maximiza tus ventas. Muestra tus productos eficientemente y acerca a tus clientes a la compra.</p>
+            </a>
+            <a id="webItem" href="/solucionesWeb">
+                <h3>Landing page</h3>
+                <p>Estrategia digital de alto impacto. Capta leads y convierte visitas en acciones concretas.</p>
+            </a>
+            <a id="webItem" href="/solucionesWeb">
+                <h3>Mantenimiento web</h3>
+                <p>Tu sitio web siempre al máximo. Una web sin mantenimiento es una oportunidad perdida.</p>
+            </a>
+        </div>
+
+    </div>
+    <div style="display:flex; justify-content:center; align-items:center;">
+        <div class="banner-text imgWeb">
+            
+            <div class="row" style="display: flex;  justify-content: center;  align-items: center;margin-left: 12rem; margin-top: 20%;">
+                <div class="col-6">
+                    <p style=" font-size: 24px;color: #ffffff;">Personaliza tu solución ahora</p>
+                </div>
+               
+                <div class="col-1"> <a href="/solucionesWeb"><img class="flecha-img" src="/Images/hflesolu.png" alt="" style="margin-left: -0.5rem;" /></a></div>
+               
+            </div>
+        </div>
+    </div>
+   
+</div>
+
+
+@* TESTIMONIOS *@
+<div class="banner-text" style="margin: 0 auto; margin-top:15rem;">
+    <h1 class="font48">Nuestros Clientes / Testimonios</h1>
+    <div class="clientCards">
+        <div class="commentCard">
+            <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" />
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan, placerat dictumst ligula natoque fermentum dictum eleifend potenti litora, cum montes auctor fames sociis augue odio.  </p>
+            <img class="flecha-img bajo" src="/Images/flecha-off.jpg" alt="" />
+        </div>
+        <div class="commentCard">
+            <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" />
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan, placerat dictumst ligula natoque fermentum dictum eleifend potenti litora, cum montes auctor fames sociis augue odio. Fames nostra magnis interdum tristique pulvinar cum per eu, habitasse sem etiam et facilisi.</p>
+            <img class="flecha-img bajo" src="/Images/flecha-off.jpg" alt="" />
+        </div>
+        <div class="commentCard">
+            <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" />
+            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit accumsan, placerat dictumst ligula natoque fermentum dictum eleifend potenti litora, cum montes auctor fames sociis augue odio. Fames nostra magnis interdum tristique pulvinar cum per eu. </p>
+            <img class="flecha-img bajo" src="/Images/flecha-off.jpg" alt="" />
+        </div>
+    </div>
+    <div class="clients">
+        <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" /> 
+        <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" /> 
+        <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" /> 
+        <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" /> 
+        <img src="/Images/aldeso.jpg" alt="Aldeso logo" class="logo-img" />
+    </div>
+</div>
+@* CONTACTO *@
+<div id="contact"> 
+    <div class="banner-text" style="margin: 0 auto; margin-top:7rem;">
+        <div id ="crow">
+          
+            <div class=" col-5 mt-5 mb-5">
+                <h1 class="font48 mb-4">Contacto</h1>
+                <div class="row mb-3">
+                    <div class="col-1"><img src="/Images/hubic.png" alt="Alternate Text" style="height:21px; width:16px; margin-right:0.5rem;" /></div>
+                    <div class="col-11" style="opacity:60%;"> C/. Nil Fabra, 34-36 Entlo.2B <br />Barcelona 08012</div>
+                </div>
+              
+                <div class="row " style="margin-bottom:2rem;">
+                    <div class="col-1"><img src="/Images/hcorreo.png" alt="Alternate Text" style="height:13px; width:20px; margin-right:0.5rem;" /></div>
+                    <div class="col-11" style="opacity:60%;">mescalona@adelso.es</div>
+                </div>
+              
+                <div id="maps">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.1295513052055!2d2.151641869610122!3d41.40626840408672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2a47fbcf547%3A0xf6088e2e6251b48!2sCarrer%20de%20Nil%20Fabra%2C%2036%2C%20Gr%C3%A0cia%2C%2008012%20Barcelona!5e0!3m2!1ses!2ses!4v1730903349058!5m2!1ses!2ses"  style="border:0; width:90%; height:450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+            <div class=" col-6 mt-5">
+                <h4 style="font-size:30px; color:#303f9f;">Para Información comercial Llámanos al:</h4>
+                <h3 style="font-size:30px; color:#494949;">(+34) 934 156 944</h3>
+                <p style="font-size:16px; color:#494949;">Escríbenos y te responderemos lo antes posible. Nuestro departamento del servicio al cliente resolverá todas tus dudas.</p>
+
+                <div id="formulario">
+                    <div class="form-group row mb-3">
+                        <div class="col-md-6">
+                            <label for="exampleInputPassword1" class="form-label">Correo</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" required>
+
+
+                        </div>
+                        <div class="col-md-6">
+                            <label for="exampleInputPassword1" class="form-label">Teléfono</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" required>
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-3">
+                        <div class="col-md-6">
+                            <label for="exampleInputPassword1" class="form-label">Nombre</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" required>
+
+
+                        </div>
+                        <div class="col-md-6">
+
+                            <label for="exampleInputPassword1" class="form-label">Apellido</label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" required>
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-3">
+                        <div class="col-md-12">
+                            <label for="exampleInputPassword1" class="form-label">Nombre de la empresa </label>
+                            <input type="password" class="form-control" id="exampleInputPassword1" required>
+
+                        </div>
+                    </div>
+                    <div class="form-group row mb-3">
+                        <div class="col-md-12">
+                            <label for="producto">Elige un producto relacionado con tu consulta</label>
+                            <select class="form-select" aria-label="Default select example" >
+                                <option selected disabled>Selecciona</option>
+                                <option value="1">One</option>
+                                <option value="2">Two</option>
+                                <option value="3">Three</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row mb-3">
+                        <div class="col-md-12">
+                            <label for="exampleFormControlTextarea1" class="form-label">Mensaje</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+                        </div>
+                    </div>
+
+
+                   
+                    <!-- Casillas de verificación -->
+                    <div class="form-group row mt-2">
+                        <div class="col-12">
+                            <div class="form-check ">
+                                <label>
+                                    <input type="checkbox" name="acepto_leer" required> He leído y acepto la política de protección de datos.
+                                </label>
+                               
+                            </div>
+
+                            <div class="form-check">
+                                 <label>
+                                    <input type="checkbox" name="acepto_envio" > Acepto el envío de comunicaciones comerciales.
+                                </label>
+                            </div>
+
+                        </div>
+                      
+                    </div>
+                    <!-- Botón de registro -->
+                    <div class="col-12 mt-3 mb-5 button-container">
+                        <button class="btnWhite">Enviar</button>
+                        <button class="btnWhite">Cancelar</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+       
+    </div>
+</div>
+<style>
+   
+    .imgWeb{
+        display: flex;
+       /*  justify-content: center; */
+        align-items: center;
+        background: url('/Images/hweb.png') no-repeat center center;
+        background-size: cover; /* Esto hará que la imagen cubra todo el área */
+        height: 302px;
+    }
+
+    #contact {
+        background: #e1edf4;
+    }
+
+    .form-control, .form-select {
+        background-color: #ffffffa3 !important
+    }
+
+</style>
+<style>
+    .clients {
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+        margin: 4rem auto;
+    }
+    .clients img{
+        margin: auto 1rem;
+    }
+
+ 
+    .font48 {
+        font-size: 48px;
+        color: #494949;
+    }
+
+    .clientCards {
+        display: flex;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+        width: 100%;
+        gap: 1rem;
+       margin-top:2rem;
+        justify-content: space-between;
+    }
+
+    .commentCard {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center; 
+        border: 2px solid #494949;
+        border-radius: 1rem;
+        height: 450px; 
+        width: 354px;
+        padding: 2rem;
+        box-sizing: border-box;
+        position: relative; /*  para posicionar la flecha al final */
+    }
+
+    .logo-img {
+        width: 153px;
+        height: 43px;
+    }
+
+    .commentCard p {
+        margin-top: 3rem; 
+        text-align: center; 
+        margin-bottom: 3rem; 
+    }
+
+    .bajo {
+        position: absolute;
+        bottom: 1rem; /* Alinea la flecha al final de la card */
+        left: 50%;
+        transform: translateX(-50%); /* Centra la flecha horizontalmente */
+    }
+
+</style>
+<style>
+   
+    #solucionesWeb h3 {
+        font-size: 24px;
+            color: #ffffff;
+        }
+
+
+    #solucionesWeb p{
+        font-size: 18px;
+    }
+
+
+    #solutionCards {
+        margin-bottom: 3.5rem;
+        display: flex;
+        flex-wrap: nowrap; /* elementos en una sola línea  */
+        justify-content: space-between;
+        padding: 20px 0;
+    }
+    #solutionCards a{
+        text-decoration:none;
+        color:#ffffff !important;
+    }
+
+    #webItem {
+        background-color: #FFFFFF26;
+        border: 1px solid #eeab42;
+        padding: 20px;
+        height: 275px;
+        width: 265px;
+        flex-shrink: 0; /* Evita que las tarjetas se encojan si el contenedor es pequeño */
+        transition: transform 0.3s ease, box-shadow 0.3s ease; 
+    }
+        #webItem:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); 
+        }
+
+
+</style>
+<style>
+    .flecha-img {
+        height: 43px;
+        width: 52px;
+        cursor: pointer;
+        transition: opacity 0.3s ease; 
+    }
+
+        .flecha-img:hover {
+            content: url('/Images/hifle-on.png'); 
+            opacity: 0.8; 
+        }
+
+    .linea {
+        display: flex;
+        flex-wrap: wrap; /* elementos pasen a la siguiente línea si el espacio es insuficiente */
+        gap: 10px; 
+    }
+
+    #solution-item {
+        display: flex;
+        align-items: center;
+    }
+
+        #solution-item p {
+            font-size: 30px;
+            color: #494949;
+        }
+        #solution-item img {
+            margin-right: 5px; 
+        }
+</style>
+<style>
+  
+    #carruselSolutions {
+        width: 1300px; /* Ancho fijo para el contenedor */
+        margin: 0 auto; /* Centra el contenedor en la página */
+        position: relative; /* Para que las flechas se posicionen dentro de este contenedor */
+    }
+
+    #soluciones-carrusel {
+        display: flex;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+        width: 100%;
+        gap: 1rem;
+        padding: 1rem;
+      /*   box-sizing: border-box; */
+    }
+
+    .carousel-arrow {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 48px;
+        color: #303f9f;
+        cursor: pointer;
+        padding: 0 10px;
+        background: rgba(255, 255, 255, 0.7); /* Fondo semitransparente para visibilidad */
+        border-radius: 50%;
+        user-select: none; /* Evita la selección de texto al hacer clic */
+        margin-top: 2.2rem;
+    }
+
+        .carousel-arrow:hover {
+            color: #3789b3;
+        }
+
+    .left-arrow {
+        left: 10px; /* Ajuste a 10px desde el borde izquierdo del contenedor */
+    }
+
+    .right-arrow {
+        right: 10px; /* Ajuste a 10px desde el borde derecho del contenedor */
+    }
+
+    .ERPcard {
+        cursor: pointer;
+        flex: 0 0 301px;
+        min-height: 320px;
+        min-width: 345px;
+        background-color: #303f9f;
+        color: #ffffff;
+        text-align: center;
+        box-shadow: 0 8px 0 #eeab42;
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+        box-sizing: border-box;
+        transition: all 0.5s ease;
+        text-decoration: none !important;
+    }
+
+    .ERPcard:hover{
+        background-color: #3789b3;
+      
+    }
+
+        .ERPcard img {
+            display: block;
+            margin: 0 auto;
+            margin-bottom: 1rem;
+        }
+
+        .ERPcard h2 {
+            font-size: 32px;
+            margin: 0.5rem 0;
+        }
+
+        .ERPcard p {
+            font-size: 18px;
+            line-height: 1.5;
+            margin: 0.5rem 0;
+        }
+
+</style>
+<style>
+/*     .ERPcard a{
+        text-decoration: none !important;
+    } */
+  /*   #ERPcard{
+        height:332px;
+        width:301px;
+        background-color: #303f9f;
+        color:#ffffff;
+        text-align:center;
+        box-shadow: 0 8px 0 #eeab42;
+        align-content: center;
+    } */
+    .banner-carousel {
+        overflow: hidden;
+        width: 100%;
+        position: relative;
+        height: 560px;
+    }
+
+    .banner-track {
+        display: flex;
+        transition: transform 1s ease;
+    }
+
+    .banner-content {
+        min-width: 100%;
+        height: 560px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .banner-text {
+        width: 1166px;
+    }
+
+    #banner1 {
+        background-image: url('/Images/hmag1_2.jpg');
+    }
+
+    #banner2 {
+        background-image: url('/Images/hmag2.jpg');
+    }
+
+    #banner3 {
+        background-image: url('/Images/hmag3.jpg');
+    }
+
+    .banner-content h1, .banner-content h3, .banner-content button {
+        margin: 10px 0;
+    }
+
+    h1 {
+        color: #303f9f;
+        font-size: 60px;
+    }
+
+    h3 {
+        color: #494949;
+        font-size: 16px;
+    }
+
+    /* .btnBlue {
+       
+        text-decoration: none;
+        font-size:16px;
+        background: #303f9f;
+        border-radius: 0.5rem;
+        border: none;
+        color: white;
+        box-shadow: 0 6px 0 #eeab42;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        height: 2.5rem;
+        padding: 0.5rem;
+    }
+
+        .btnBlue:hover {
+            background-color: #3789b3;
+        } */
+        .espacio{
+        display: inline-block;
+        margin: 1rem 0; 
+        }
+    .banner-scroll {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px; 
+        padding: 20px 0; 
+        width: 100%;
+        position: relative; 
+        z-index: 1; 
+    }
+
+    .indicator {
+        width: 15px;
+        height: 15px;
+        background-color: gray;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .indicator.active {
+            background-color: blue;
+        }
+
+    .row.banner-text {
+        margin-top: 20px; 
+    }
+</style>
+<script>
+   
+   
+        document.addEventListener('DOMContentLoaded', function() {
+            const carousel = document.getElementById('soluciones-carrusel');
+        const scrollAmount = 300;
+
+        function scrollLeft() {
+                if (carousel) {
+            carousel.scrollBy({
+                left: -scrollAmount,
+                behavior: 'smooth'
+            });
+                }
+            }
+
+        function scrollRight() {
+                if (carousel) {
+            carousel.scrollBy({
+                left: scrollAmount,
+                behavior: 'smooth'
+            });
+                }
+            }
+
+        // Asignamos las funciones a las flechas
+        document.querySelector('.left-arrow').addEventListener('click', scrollLeft);
+        document.querySelector('.right-arrow').addEventListener('click', scrollRight);
+        });
+
+
+
+
+</script>
+
+
+<script>
+    let currentIndex = 0;
+    const carouselContainer = document.querySelector('.banner-carousel'); // Asegura que solo se ejecute en el contenedor del carrusel
+    const banners = carouselContainer.querySelectorAll('.banner-content');
+    const bannerTrack = carouselContainer.querySelector('.banner-track');
+    const indicators = document.querySelectorAll('.indicator');
+    // const banners = document.querySelectorAll('.banner-content');
+    // const bannerTrack = document.querySelector('.banner-track');
+    // const indicators = document.querySelectorAll('.indicator');
+    const totalBanners = banners.length;
+
+    // Función para mostrar el banner activo mediante desplazamiento
+    function showBanner(index) {
+      //  alert('pff');
+        // Desplaza el track del carrusel para mostrar el banner correspondiente
+        const offset = -index * 100;
+        bannerTrack.style.transform = `translateX(${offset}%)`;
+
+        // Actualizar las bolitas de navegación
+        indicators.forEach((indicator, i) => {
+            indicator.classList.toggle('active', i === index);
+        });
+    }
+
+
+
+    // Función para avanzar al siguiente banner
+    function nextBanner() {
+      //    alert('siguiente pff');
+        currentIndex = (currentIndex + 1) % totalBanners;
+        showBanner(currentIndex);
+    }
+
+    // Evento para las bolitas de navegación
+    indicators.forEach(indicator => {
+        indicator.addEventListener('click', () => {
+            currentIndex = parseInt(indicator.getAttribute('data-index'));
+            showBanner(currentIndex);
+        });
+    });
+
+    // Cambiar de banner automáticamente cada 5 segundos
+    setInterval(nextBanner, 5000);
+
+    // Mostrar el primer banner al cargar la página
+    showBanner(currentIndex);
+</script>
+ 

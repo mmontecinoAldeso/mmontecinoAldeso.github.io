@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAldeso.Web
+build_property.RootNamespace = WebAldeso.Web
+build_property.ProjectDir = C:\Trabajo\WebAldeso\WebAldeso.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Trabajo\WebAldeso\WebAldeso.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Advisor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZHZpc29yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Contacto.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Inicio.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmljaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Preguntas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVndW50YXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Sectores.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZWN0b3Jlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/ERPchemical.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXEVSUGNoZW1pY2FsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/ERPelectrical.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXEVSUGVsZWN0cmljYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/ERPindustrial.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXEVSUGluZHVzdHJpYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/ERPsga.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXEVSUHNnYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/Portales.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXFBvcnRhbGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/ProyectosMedida.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXFByb3llY3Rvc01lZGlkYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesADV/SolucionChemSD.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzQURWXFNvbHVjaW9uQ2hlbVNELnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/SolucionesWeb.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb2x1Y2lvbmVzV2ViLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Pages/Soporte.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTb3BvcnRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Layout/ContPrueba.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ29udFBydWViYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-sqs5v9mhhc
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-e8myko3xpo
+
+[C:/Trabajo/WebAldeso/WebAldeso.Web/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gd98e87c6l

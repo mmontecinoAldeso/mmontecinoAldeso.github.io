@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JGeKSJ8sYyOEEeZcFjc0MkKN15CriWZLjGkdPPQQIP0=",
+  "Source": "WebAldeso.ApiService",
+  "BasePath": "_content/WebAldeso.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
